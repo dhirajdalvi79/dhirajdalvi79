@@ -2,7 +2,8 @@
 Hi, My name is Dhiraj Dalvi and I am a Flutter and Django developer.
 - 👨‍🔬 I have bachelor's in chemistry and a master's in bioinformatics.
 - 🧑‍🔬 I’m interested in science and tech studies.
-- 📈 I’m currently learning mathematics for artificial intelligence.
+- 👀 Currently looking for flutter developer job.
+- 📈 Learning mathematics for artificial intelligence.
 
 ---
 ## Languages and tools:
@@ -10,6 +11,9 @@ Hi, My name is Dhiraj Dalvi and I am a Flutter and Django developer.
 <img src="https://static.djangoproject.com/img/logos/django-logo-positive.png" title="Django" alt="Django" width="80" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original.svg" title="Dart" alt="Dart" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original.svg" title="Android Studio" alt="Android Studio" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VS Code" alt="VS Code" width="40" height="40"/>&nbsp;
+
 <!---
 dhirajdalvi79/dhirajdalvi79 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
