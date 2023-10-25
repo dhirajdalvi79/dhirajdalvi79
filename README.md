@@ -4,6 +4,10 @@
 - I’m interested in science and tech studies.
 - I’m currently learning mathematics for artificial intelligence.
 
+- <div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+</div>
+
 # Languages and tools:
 
 <!---
