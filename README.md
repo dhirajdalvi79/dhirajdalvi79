@@ -1,8 +1,9 @@
 ## About me:
 Hi, My name is Dhiraj Dalvi and I am a Flutter and Django developer.
-- 👨‍🔬 I have bachelor's in chemistry and a master's in bioinformatics.
+
+- 👨‍🔬 I am a passionate developer with background in chemistry and bioinformatics.
 - 👨‍🔬 I’m interested in science and tech studies.
-- 👀 Currently looking for flutter developer job.
+- 👀 Currently seeking a Flutter developer position where I can apply my skills and experience to create innovative and user-friendly applications.
 - 📈 Learning mathematics for artificial intelligence.
 
 ---
